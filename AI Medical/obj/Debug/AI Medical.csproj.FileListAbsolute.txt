@@ -1,0 +1,4 @@
+c:\users\vengadesh\documents\visual studio 2010\Projects\AI Medical\AI Medical\bin\AI Medical.dll
+c:\users\vengadesh\documents\visual studio 2010\Projects\AI Medical\AI Medical\bin\AI Medical.pdb
+c:\users\vengadesh\documents\visual studio 2010\Projects\AI Medical\AI Medical\obj\Debug\AI Medical.dll
+c:\users\vengadesh\documents\visual studio 2010\Projects\AI Medical\AI Medical\obj\Debug\AI Medical.pdb
